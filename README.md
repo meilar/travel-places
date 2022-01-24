@@ -1,12 +1,11 @@
-<h1 align="center">Matt's README Template</h1>
+<h1 align="center">Globetrotters</h1>
 
 Matthew Eilar | [LinkedIn](https://www.linkedin.com/in/eilar-503/) | [email](mailto:<meilar@gmail.com>) | [website](www.mattheweilar.com)
 
+Ryan Bass | [LinkedIn](https://www.linkedin.com/in/theryanbass/) | [email](mailto:<theryanbass@gmail.com>) | [website](www.fromtheunderworld.com)
+
 ## About this project
- 
-
-## Features
-
+This website allows the user to track places in the world that they have been to. Each place is stored as a JavaScript object. 
 
 ## How to view
 
@@ -35,15 +34,11 @@ The following software tools were used to develop this page:
 
 ## Known Issues
 
-## Acknowledgements
-
-Thank you to my partner, Alex, for support in all ways. Thank you to my parents for encouraging technology exploration, even when resources were scarce. Thank you to the Kohlenberg Foundation for CHANGE ME.
-
 ## License 
 
 MIT License
 
-© 2022 Matthew Eilar
+© 2022 Matthew Eilar & Ryan Bass
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
