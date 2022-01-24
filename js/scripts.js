@@ -25,3 +25,7 @@ function Trip(location, landmark, yearTime, note) {
 Trip.prototype.tripReport = function() {
   return "I visited " + this.location + ". It was beautiful in " + this.yearTime + ". If you go, make sure to visit " + this.landmark + ". Make sure to remember: " + this.note + "! Have fun!";
 }
+
+// User Interface
+
+
